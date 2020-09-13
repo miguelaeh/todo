@@ -34,7 +34,7 @@ todo done --id 4
 
 ## Pending
 
-[] Add feature to schedule desktop notifications
-[] Organize task per days
-[] Do not delete the task when it is marked as done unless `-delete` is specified
-[] Add automatic tests
+-  [ ] Add feature to schedule desktop notifications
+-  [ ] Organize task per days
+-  [ ] Do not delete the task when it is marked as done unless `-delete` is specified
+-  [ ] Add automatic tests
